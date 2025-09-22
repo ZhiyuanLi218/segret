@@ -1,6 +1,3 @@
-[![NVIDIA Source Code License](https://img.shields.io/badge/license-NSCL-blue.svg)](https://github.com/NVlabs/SegFormer/blob/master/LICENSE)
-![Python 3.8](https://img.shields.io/badge/python-3.8-green.svg)
-
 # SegRet: An Efficient Design for Semantic Segmentation with Retentive Network
 
 <!-- ![image](resources/image.png) -->
